@@ -4,7 +4,6 @@ An Intership Project at Sparks Foundation
 USED : Tailwind Css, unplash image api and Razor-pay Api
 
 Some Snaps : 
-![image](https://github.com/Om29001/payment-gatway/assets/86549121/3c1b0cd7-817c-45b3-99d2-c8f8d9b52e75)
 
 ![image](https://github.com/Om29001/payment-gatway/assets/86549121/a98957b5-57fc-473d-8da1-3cf522ae3ebd)
 
